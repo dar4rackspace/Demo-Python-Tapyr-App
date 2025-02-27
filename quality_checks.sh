@@ -8,4 +8,4 @@ echo "Running pytest for unit tests..."
 uv run pytest
 
 echo "Running pyright for type checking..."
-uv run pyright tapyr_template
+uv run pyright tapyr_llm_demo

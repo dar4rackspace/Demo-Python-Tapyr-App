@@ -1,5 +1,5 @@
 [project]
-name = "tapyr_template"
+name = "tapyr_llm_demo"
 version = "0.2.0"
 description = ""
 authors = [{name = "Appsilon.com", email = "hello@appsilon.com"}]
@@ -15,7 +15,7 @@ dependencies = [
 
 
 [tool.coverage.run]
-source = ["tapyr_template"]
+source = ["tapyr_llm_demo"]
 
 [tool.uv]
 dev-dependencies = [

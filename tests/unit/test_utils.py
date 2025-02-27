@@ -1,6 +1,6 @@
 import pytest
 
-from tapyr_template.logic.utils import divide
+from tapyr_llm_demo.logic.utils import divide
 from tests.helpers.logging_helpers import log_contain_message
 
 
